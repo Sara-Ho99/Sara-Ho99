@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub! I'm a full-stack software engineer in Canada</h3>
 
 # 💫 About Me:
-## my portfolio website: https://www.sara-zh.xyz/
+## Welcome to my portfolio website: https://www.sara-zh.xyz/
 
 🎓 I graduated with a MEng degree in Systems Design Engineering @Universoty of Waterloo<br>🔭 I’m currently working on full-stack web development @BrainStation<br>👯 I’m looking to collaborate on web development projects<br>😻 Fun fact: My cat is my spirit animal, life coach, and boss.<br>
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sara-zhiliu-he)
