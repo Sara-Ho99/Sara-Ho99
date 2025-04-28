@@ -2,7 +2,6 @@
 <h3 align="center">Welcome to my GitHub! I'm a full-stack software engineer in Canada</h3>
 
 # 💫 About Me:
-## 
 
 🎓 I graduated with a MEng degree in Systems Design Engineering @Universoty of Waterloo<br>
 🔭 I’m currently working on full-stack web development @BrainStation<br>
